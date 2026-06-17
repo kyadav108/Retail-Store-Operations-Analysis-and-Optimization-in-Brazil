@@ -61,19 +61,7 @@ The analysis utilizes the following datasets:
 Target-Brazil-Business-Case/
 │
 ├── README.md
-├── schema.sql
-├── insights.md
-│
-├── data/
-│   ├── customers.csv
-│   ├── geolocation.csv
-│   ├── orders.csv
-│   ├── order_items.csv
-│   ├── payments.csv
-│   ├── reviews.csv
-│   ├── products.csv
-│   └── sellers.csv
-│
+├── Business Case Report
 └── sql/
     ├── customer_analysis.sql
     ├── sales_analysis.sql
